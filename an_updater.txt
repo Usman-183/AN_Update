@@ -12,7 +12,7 @@ Base: 2.24.15.78
 Nuevo Systema de Actualización 
 
  Actualización AntiBaneo disponible ",
-"download":"https://youtu.be/wpUfE5_VsoU"
+"download":"https://chat.whatsapp.com/HywD7maKqQwFmC4h1a3042"
 }
   ]
 }
