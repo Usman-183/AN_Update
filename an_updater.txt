@@ -1,18 +1,18 @@
 {
   "fnmods_update": [
     {
- "version":"2.24.15.78",
+ "version":"2.24.22.79",
  "title":"Update Disponible",
  "description":"WhatApp Pro
 
-Base: 2.24.15.78
+Base: 2.24.22.79
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 Nuevo Systema de Actualización 
 
  Actualización AntiBaneo disponible ",
-"download":"https://chat.whatsapp.com/HywD7maKqQwFmC4h1a3042"
+"download":"https://youtu.be/wpUfE5_VsoU"
 }
   ]
 }
